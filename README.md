@@ -1,2 +1,2 @@
 # Flutter-url_launcher
-dart external package
+intl: ,     image_picker:     ,     url_launcher: packages description
